@@ -18,7 +18,7 @@ import android.util.Log;
 import java.util.UUID;
 
 /**
- * Created by Else.
+ * Created by zhou
  * Date: 2019/12/27
  * Time: 15:59
  * Describe:ble蓝牙实例
